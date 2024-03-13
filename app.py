@@ -15,7 +15,7 @@ import time
 
 
 nltk.download("punkt")
-nltk.download('stopwords')
+# nltk.download('stopwords')
 
 
 with open("./pklFiles/tfidf.pkl", "rb") as file:
