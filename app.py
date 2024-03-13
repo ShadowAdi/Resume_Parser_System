@@ -4,7 +4,6 @@ import re
 import pickle
 import base64
 import os
-from streamlit_tags import st_tags
 from pyresparser import ResumeParser
 from pdfminer3.layout import LAParams, LTTextBox
 from pdfminer3.pdfpage import PDFPage
