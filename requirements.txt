@@ -1,0 +1,5 @@
+streamlit
+pdfminer3
+pyresparser
+nltk
+spacy3==2.3.5
